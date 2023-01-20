@@ -1,0 +1,23 @@
+{
+  "name": "prettier-standard-config",
+  "version": "1.0.0",
+  "description": "StandardJS compliant Prettier config for Havenworks",
+  "main": ".prettierrc.json",
+  "repository": "https://github.com/havenworks/prettier-standard-config",
+  "author": "Michal Janočko <michal@janocko.com>",
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "JavaScript Standard Style",
+    "jsstandard",
+    "lint",
+    "prettier",
+    "prettierconfig",
+    "prettier-config",
+    "standard",
+    "standard style"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.8.3"
+  }
+}

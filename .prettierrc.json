@@ -1,0 +1,9 @@
+{
+  "htmlWhitespaceSensitivity": "ignore",
+  "jsxSingleQuote": true,
+  "proseWrap": "always",
+  "quoteProps": "as-needed",
+  "semi": false,
+  "trailingComma": "none",
+  "vueIndentScriptAndStyle": true
+}
