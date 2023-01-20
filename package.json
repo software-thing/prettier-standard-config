@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "StandardJS compliant Prettier config for Havenworks",
   "main": ".prettierrc.json",
-  "repository": "https://github.com/havenworks/prettier-standard-config",
+  "homepage": "https://github.com/havenworks/prettier-standard-config",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:havenworks/prettier-standard-config.git"
+  },
   "author": "Michal Janočko <michal@janocko.com>",
   "license": "MIT",
   "keywords": [
