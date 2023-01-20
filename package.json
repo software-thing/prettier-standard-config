@@ -1,6 +1,6 @@
 {
   "name": "@havenworks/prettier-standard-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "StandardJS compliant Prettier config for Havenworks",
   "main": ".prettierrc.json",
   "homepage": "https://github.com/havenworks/prettier-standard-config",
