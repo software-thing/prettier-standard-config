@@ -9,7 +9,7 @@ yarn add -D @havenworks/prettier-standard-config
 ```
 Then just the configuration (the easiest way is to set it like this in your `package.json`):
 
-```json
+```jsonc
 // package.json
 
 {
