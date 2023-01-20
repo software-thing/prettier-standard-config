@@ -10,6 +10,9 @@
   },
   "author": "Michal Janočko <michal@janocko.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "config",
     "JavaScript Standard Style",
