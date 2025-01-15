@@ -1,11 +1,11 @@
 # 🎨 Prettier StandardJS config
 
-This is a default configuration for Prettier to format code according to the StandardJS specification. In Havenworks by default, the [`ts-standard`](https://github.com/standard/ts-standard) package should be used so this is mainly used to format Svelte files.
+This is a default configuration for Prettier to format code according to the StandardJS specification.
 
 Installation is very simple:
 
 ```bash
-yarn add -D @havenworks/prettier-standard-config
+yarn add -D @software-thing/prettier-standard-config
 ```
 Then just the configuration (the easiest way is to set it like this in your `package.json`):
 
@@ -13,6 +13,6 @@ Then just the configuration (the easiest way is to set it like this in your `pac
 // package.json
 
 {
-  "prettier": "@havenworks/prettier-standard-config"
+  "prettier": "@software-thing/prettier-standard-config"
 }
 ```

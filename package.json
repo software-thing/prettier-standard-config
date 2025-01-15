@@ -1,14 +1,14 @@
 {
-  "name": "@havenworks/prettier-standard-config",
+  "name": "@software-thing/prettier-standard-config",
   "version": "1.1.1",
-  "description": "StandardJS compliant Prettier config for Havenworks",
+  "description": "StandardJS compliant Prettier config",
   "main": ".prettierrc.json",
-  "homepage": "https://github.com/havenworks/prettier-standard-config",
+  "homepage": "https://github.com/software-thing/prettier-standard-config",
   "repository": {
     "type": "git",
-    "url": "git@github.com:havenworks/prettier-standard-config.git"
+    "url": "git@github.com:software-thing/prettier-standard-config.git"
   },
-  "author": "Michal Janočko <michal@janocko.com>",
+  "author": "Michal Janočko",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
