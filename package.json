@@ -25,6 +25,6 @@
     "standard style"
   ],
   "peerDependencies": {
-    "prettier": "^2.8.3"
+    "prettier": "^3.4.2"
   }
 }
